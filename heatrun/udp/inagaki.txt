@@ -1,0 +1,7 @@
+as.ntm.jp
+sinagaki1@wata-lab.meijo-u.ac.jp
+12345
+sinagaki2.dc.ntm.jp
+v4
+udp
+eth0

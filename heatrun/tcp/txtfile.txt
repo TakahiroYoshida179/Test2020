@@ -1,0 +1,7 @@
+as.ntm.jp
+456@meijo-u.ac.jp
+0000
+751267062c92e398c3942214b58136f73a4b9e1ca9a214d72d6d5805.dc.ntm.jp
+v4
+tcp
+eth0

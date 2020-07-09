@@ -1,0 +1,7 @@
+as.ntm.jp
+tun1@meijo-u.ac.jp
+watalab
+tun0.dc.ntm.jp
+v4
+udp
+eth0
